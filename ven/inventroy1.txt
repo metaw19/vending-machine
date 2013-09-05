@@ -1,0 +1,50 @@
+Mountain Dew
+2.5
+Calorie 200 Fat-12g Sugar-20g
+9
+1
+Sprite
+2.5
+Calorie 250 Fat-18g Sugar-20g
+10
+0
+Diet coke
+2.5
+Calorie 200 Fat-22g Sugar-10g
+7
+3
+Sierra Mist
+2.5
+Calorie 100 Fat-30g Sugar-10g
+10
+0
+Fritos
+1.25
+Calorie 650 Fat-60g Sugar-20g
+10
+0
+Cheetos
+1.25
+Calorie 600 Fat-15g Sugar-70g
+10
+0
+Cookies
+1.25
+Calorie 700 Fat-40g Sugar-60g
+10
+0
+Reese
+1.25
+Calorie 500 Fat-60g Sugar-23g
+10
+0
+Pepsi
+1.5
+Calorie 310 Fat-20g Sugar-30g
+10
+0
+Fanta
+1.5
+Calorie 150 Fat-40g Sugar-40g
+10
+0

@@ -1,0 +1,12 @@
+RECIPT
+Item Selected: Sprite
+Price: 2.5
+Money Inserted: 2.5
+Change0.0
+
+RECIPT
+Item Selected: Fanta
+Price: 1.5
+Money Inserted: 5.0
+Change3.5
+
